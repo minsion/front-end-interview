@@ -1,2 +1,3 @@
 # js-interview-questions
-Javascript面试真题
+
+<a href="js.pdf">Javascript面试真题</a>
